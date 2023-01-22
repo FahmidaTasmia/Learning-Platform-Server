@@ -1,169 +1,129 @@
 [
     {
-        "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
-        "others_info": {
-          "is_todays_pick": false,
-          "is_best_seller": true
-        },
-        "category_id": "01",
-        "rating": { "number": 4.5, "badge": "Excellent" },
-        "total_reviews": 4088,
-        "title": "Front-End Development With PI-learning",
-        "author": {
-          "name": "Jimmy Dane",
-          "published_date": "2022-08-24 17:27:34",
-          "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
-        },
-        "thumbnail_url": "https://ebac.art.br/upload/resize_cache/iblock/79a/329_199_2/CPD_Software%20tester.jpg",
-        "image_url": "https://www.mindinventory.com/blog/wp-content/uploads/2021/03/frontend-development-tools.png",
-        "skill you'll gain":"Cascading Style Sheets (CSS),HTML,UI/UX design,React,JavaScript,Web Development Tools,User Interface,Front-End Web Development,HTML and CSS,Responsive Web Design",
-        "details": "Want to get started in the world of coding and build beautiful websites as a career? This course program, designed by the software engineering experts at PI-learning, will prepare you for a career as a front-end developer.Once you complete the program, you’ll get access to the PI-learning Career Programs Job Board—a job search platform that connects you with 200+ employers who have committed to sourcing talent through PI-Learning certificate programs, as well as career support resources to help you with your job search.",
-        "What To Learn":"In this program, you’ll learn: 1.How to code and build interactive web pages using HTML5, CSS and JavaScript. 2.In-demand design skills to create professional page layouts using industry-standard tools such as Bootstrap, React, and Figma.3.GitHub repositories for version control, content management system (CMS) and how to edit images using Figma.4.How to prepare for technical interviews for front-end developer roles. "
+        "_id": "001",
+        "name":"Front-End Development",
+        "tImage":"https://i.ibb.co/j353Xq5/04.jpg",
+        "title":"HTML, CSS, Javascripts, and Basic Knowledge about web design",
+        "Image":"https://i.ibb.co/Y3JqpjH/christopher-gower-m-HRf-Lhg-ABo-unsplash-1.jpg",
+        "teacher":"John Cartwright",
+        "time":"1h 30m",
+        "view":"4088",
+        "Price":"120",
+        "Li1":"Describe the website development process and define terminology such as front-end, back-end, and full stack developers.",
+        "Li2":"Learn to use React in relation to Javascript libraries and frameworks.",
+        "Li3":"Learn Bootstrap CSS Framework to create webpages and work with GitHub repositories and version control.",
+        "Li4":"Prepare for a coding interview, learn best approaches to problem-solving, and build portfolio-ready projects you can share during job interviews.",
+        "details":"The courses in this program will help you develop skill sets in a variety of technologies including: Cloud foundations, HTML, CSS, JavaScript, GitHub, Node.js, React, Cloud Native practices, DevOps, CI/CD, Containers, Docker, Kubernetes, OpenShift, Istio, Python programming, Databases, SQL, NoSQL, Django ORM, Bootstrap, Application Security, Microservices, Serverless computing, and more. ",
+        "detail2":"When you complete all of the courses in the program, you'll earn a Certificate to share with your professional network as well as unlock access to career support resources to help you kickstart your new career. Many Professional Certificates have hiring partners that recognize the Professional Certificate credential and others can help prepare you for a certification exam. You can find more information on individual Professional Certificate pages where it applies.",
+        "detail":"Want to get started in the world of coding and build beautiful websites as a career? This course program, designed by the software engineering experts at PI-learning, will prepare you for a career as a front-end developer.Once you complete the program, you’ll get access to the PI-learning Career Programs Job Board—a job search platform that connects you with 200+ employers who have committed to sourcing talent through PI-Learning certificate programs, as well as career support resources to help you with your job search"
+
+        
         
       },
 
       {
-        "_id": "0282e0e58a5c404fbd15261f11c2ab6b",
-        "others_info": {
-          "is_todays_pick": false,
-          "is_best_seller": true
-        },
-        "category_id": "02",
-        "rating": { "number": 4.5, "badge": "Excellent" },
-        "total_reviews": 2056,
-        "title": "Data Science With PI-learning",
-        "author": {
-            "name": "Jennifer Wood",
-            "published_date": "2022-08-30 16:38:45",
-            "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
-          },
-        "thumbnail_url": "https://www.un.org/sites/un2.un.org/files/field/image/1594842639.8507.jpg",
-        "image_url": "https://www.logisticsinsider.in/wp-content/uploads/2021/01/data-science.png",
-        "skill you'll gain":"Data Science, Big Data, Data Mining, Github, Python Programming,Jupyter notebooks,Data Analysis",
+        "_id": "002",
+        "name":"Data Science",
+        "tImage":"https://i.ibb.co/pjPjGPc/06.jpg",
+        "title":" Data Scientist, Business Intelligence Analyst, Data Analyst, Data Architect, Data Engineer, Marketing Analyst, Operations Analyst",
+        "Image":"https://i.ibb.co/54xmVYg/myriam-jessier-eve-I7-MOc-Smw-unsplash.jpg",
+        "teacher":"William Benson",
+        "time":"1h 30m",
+        "view":"5032",
+        "Price":"199",
+        "Li1":"Gain an immersive understanding of the practices and processes used by a junior or associate data analyst in their day-to-day job",
+        "Li2":"Learn key analytical skills (data cleaning, analysis, & visualization) and tools (spreadsheets, SQL, R programming, Tableau) ",
+        "Li3":"Understand how to clean and organize data for analysis, and complete analysis and calculations using spreadsheets, SQL and R programming",
+        "Li4":"Learn how to visualize and present data findings in dashboards, presentations and commonly used visualization platforms",
+        "details":"It’s a myth that to become a data scientist you need a Ph.D. Anyone with a passion for learning can take this Professional Certificate – no prior knowledge of computer science or programming languages required – and develop the skills, tools, and portfolio to have a competitive edge in the job market as an entry level data scientist. ",
+        "detail2":"Data science is one of the hottest professions of the decade, and the demand for data scientists who can analyze data and communicate results to inform data driven decisions has never been greater. This Professional Certificate will help anyone interested in pursuing a career in data science or machine learning develop career-relevant skills.",
+        "detail":"Want to get started in the in-demand field of data science with a Professional Certificate from PI-learning. This Course you can  Learn the foundations of data science and develop hands-on skills using the tools, languages, and libraries used by professional data scientists."
+
         
-        "details": "Data science is one of the hottest professions of the decade, and the demand for data scientists who can analyze data and communicate results to inform data driven decisions has never been greater. This Professional Certificate will help anyone interested in pursuing a career in data science or machine learning develop career-relevant skills.It’s a myth that to become a data scientist you need a Ph.D. Anyone with a passion for learning can take this Professional Certificate – no prior knowledge of computer science or programming languages required – and develop the skills, tools, and portfolio to have a competitive edge in the job market as an entry level data scientist.The program consists of 9 online courses that will provide you with the latest job-ready tools and skills, including open source tools and libraries, Python, databases, SQL, data visualization, data analysis, statistical analysis, predictive modeling, and machine learning algorithms. You’ll learn data science through hands-on practice in the IBM Cloud using real data science tools and real-world data sets.",
         
-        "What To Learn":"This Professional Certificate has a strong emphasis on applied learning. The courses include a series of hands-on labs in the IBM Cloud that give you practical skills with applicability to real jobs, including:1.Extract and graph financial data with the Pandas Python library.2.Use SQL to query census, crime, and school demographic data sets.3.Wrangle data, graph plots, and create regression models to predict housing prices with data science Python libraries.4.Create a dynamic Python dashboard to monitor, report, and improve US domestic flight reliability.5.Apply and compare machine learning classification algorithms to predict whether a loan case will be paid off or not.6.Train and compare machine learning models to predict if a space launch can reuse the first stage of a rocket. "
+      },
+      {
+        "_id": "003",
+        "name":"Artificial Intelligence",
+        "tImage":"https://i.ibb.co/Gs0w06s/05.jpg",
+        "title":"SciPy and scikit-learn, Machine Learning, Hierarchical Clustering, keras, Image Processing, Computer Vision",
+        "Image":"https://i.ibb.co/H2Q6jy6/annie-spratt-Qckxruozj-Rg-unsplash.jpg",
+        "teacher":"Sally Short",
+        "time":"1h 30m",
+        "view":"5021",
+        "Price":"210",
+        "Li1":"Gain an immersive understanding of the practices and processes used by a junior or associate data analyst in their day-to-day job",
+        "Li2":"Learn key analytical skills (data cleaning, analysis, & visualization) and tools (spreadsheets, SQL, R programming, Tableau) ",
+        "Li3":"Understand how to clean and organize data for analysis, and complete analysis and calculations using spreadsheets, SQL and R programming",
+        "Li4":"Learn how to visualize and present data findings in dashboards, presentations and commonly used visualization platforms",
+        "details":"It’s a myth that to become a data scientist you need a Ph.D. Anyone with a passion for learning can take this Professional Certificate – no prior knowledge of computer science or programming languages required – and develop the skills, tools, and portfolio to have a competitive edge in the job market as an entry level data scientist. ",
+        "detail2":"Data science is one of the hottest professions of the decade, and the demand for data scientists who can analyze data and communicate results to inform data driven decisions has never been greater. This Professional Certificate will help anyone interested in pursuing a career in data science or machine learning develop career-relevant skills.",
+        "detail":"Artificial intelligence (AI) is revolutionizing entire industries, changing the way companies across sectors leverage data to make decisions. To stay competitive, organizations need qualified AI engineers who use cutting-edge methods like machine learning algorithms and deep learning neural networks to provide data driven actionable intelligence for their businesses. This 6-course Professional Certificate is designed to equip you with the tools you need to succeed in your career as an AI or ML engineer."
+
+        
         
       },
 
       {
-        "_id": "f69a695f037cd9484cecaea37ca71011",
-        "others_info": {
-          "is_todays_pick": false,
-          "is_best_seller": true
-        },
-        "category_id": "03",
-        "rating": { "number": 4.5, "badge": "Excellent" },
-        "total_reviews": 3088,
-        "title": "Artificial Intelligence With PI-learning",
-        "author": {
-          "name": "Jimmy Dane",
-          "published_date": "2022-08-24 17:27:34",
-          "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
-        },
-        "thumbnail_url": "https://www.simplilearn.com/ice9/free_resources_article_thumb/Advantages_and_Disadvantages_of_artificial_intelligence.jpg",
-        "image_url": "https://www.simplilearn.com/ice9/free_resources_article_thumb/Advantages_and_Disadvantages_of_artificial_intelligence.jpg",
+        "_id": "004",
+        "name":"Big Data Analytic",
+        "tImage":"https://i.ibb.co/pjPjGPc/06.jpg",
+        "title":"Big Data, Data Model, Data Modeling,Data Management, Machine Learning Concepts",
+        "Image":"https://i.ibb.co/M5cbgN1/scott-graham-5f-Nm-Wej4t-AA-unsplash.jpg",
+        "teacher":"William Benson",
+        "time":"1h 30m",
+        "view":"4095",
+        "Price":"195",
+        "Li1":"Learn the Big Data Theory",
+        "Li2":"Take data in different formats to Put in Alibaba Cloud Big Data Products ",
+        "Li3":"Analyze Sets of Data to produce meaningful conclusions",
+        "Li4":"Draw Graphs and Tables to demonstrate the analysis of Big Data Results",
+        "details":"This course sensitizes security in Big Data environments. You will discover cryptographic principles, mechanisms to manage access controls in your Big Data system. By the end of the course, you will be ready to plan your next Big Data project successfully, ensuring that all security-related issues are under control. ",
+        "detail2":"Big data is a combination of structured, semistructured and unstructured data collected by organizations that can be mined for information and used in machine learning projects, predictive modeling and other advanced analytics applications.",
+        "detail":"Building an Analytical Platform on Alibaba Cloud can empower how you take in, analyze, and demonstrate clear metrics from a set of Big Data. This course is designed to teach engineers how to use Alibaba Cloud Big Data products. It covers basic distributed system theory and Alibaba Cloud's core products like MaxCompute, DataWorks, E-MapReduce as well as a bundle of ecosystem tools."
 
-        "skill you'll gain":"SciPy and scikit-learn, Machine Learning, regression, classification, Hierarchical Clustering,Artificial Neural Network,Artificial Intelligence (AI)",
         
-        "details": "Artificial intelligence (AI) is revolutionizing entire industries, changing the way companies across sectors leverage data to make decisions. To stay competitive, organizations need qualified AI engineers who use cutting-edge methods like machine learning algorithms and deep learning neural networks to provide data driven actionable intelligence for their businesses. This 6-course Professional Certificate is designed to equip you with the tools you need to succeed in your career as an AI or ML engineer.You’ll master fundamental concepts of machine learning and deep learning, including supervised and unsupervised learning, using programming languages like Python. You’ll apply popular machine learning and deep learning libraries such as SciPy, ScikitLearn, Keras, PyTorch, and Tensorflow to industry problems involving object recognition, computer vision, image and video processing, text analytics, natural language processing (NLP), recommender systems, and other types of classifiers.",
-
-        "What To Learn":"In this program, you’ll learn: 1Build the Skills to Get Job Ready. 2.Earn a Career Credential.3.GitHub repositories for version control.4.Hands-On Projects. "
         
       },
-
       {
-        "_id": "f69a695f037cd9484cecaea37ca71012",
-        "others_info": {
-          "is_todays_pick": false,
-          "is_best_seller": true
-        },
-        "category_id": "04",
-        "rating": { "number": 4.5, "badge": "Excellent" },
-        "total_reviews": 4088,
-        "title": "Big Data Analytic With PI-learning",
-        "author": {
-          "name": "Jimmy Dane",
-          "published_date": "2022-08-24 17:27:34",
-          "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
-        },
-        "thumbnail_url": "https://www.simplilearn.com/ice9/free_resources_article_thumb/Data-Science-vs.-Big-Data-vs.jpg",
-        "image_url": "https://www.frost.com/wp-content/uploads/2020/08/Big-Data-Advanced-Analytics-scaled.jpg",
-        "skill you'll gain":"Cascading Style Sheets (CSS),HTML,UI/UX design,React,JavaScript,Web Development Tools,User Interface,Front-End Web Development,HTML and CSS,Responsive Web Design",
-        "details": "Want to get started in the world of coding and build beautiful websites as a career? This course program, designed by the software engineering experts at PI-learning, will prepare you for a career as a front-end developer.Once you complete the program, you’ll get access to the PI-learning Career Programs Job Board—a job search platform that connects you with 200+ employers who have committed to sourcing talent through PI-Learning certificate programs, as well as career support resources to help you with your job search.",
-        "What To Learn":"In this program, you’ll learn: 1.How to code and build interactive web pages using HTML5, CSS and JavaScript. 2.In-demand design skills to create professional page layouts using industry-standard tools such as Bootstrap, React, and Figma.3.GitHub repositories for version control, content management system (CMS) and how to edit images using Figma.4.How to prepare for technical interviews for front-end developer roles. "
-        
+        "_id": "005",
+        "name":"Machine Learning",
+        "tImage":"https://i.ibb.co/0qfTh0b/03.jpg",
+        "title":"Data Clustering Algorithms, Classification Algorithms,Python Programming",
+        "Image":"https://i.ibb.co/YW5pBtf/charlesdeluvio-Lks7vei-e-Ag-unsplash.jpg",
+        "teacher":"Jani Jangad",
+        "time":"1h 30m",
+        "view":"4095",
+        "Price":"195",
+        "Li1":"Build ML models with NumPy & scikit-learn, build & train supervised models for prediction & binary classification tasks (linear, logistic regression)",
+        "Li2":"Build & train a neural network with TensorFlow to perform multi-class classification, & build & use decision trees & tree ensemble methods",
+        "Li3":"Apply best practices for ML development & use unsupervised learning techniques for unsupervised learning including clustering & anomaly detection",
+        "Li4":"Build recommender systems with a collaborative filtering approach & a content-based deep learning method & build a deep reinforcement learning model",
+        "details":"Learners will implement and apply predictive, classification, clustering, and information retrieval machine learning algorithms to real datasets throughout each course in the specialization. They will walk away with applied machine learning and Python programming experience. ",
+        "detail2":"This program consists of 6 courses providing you with solid theoretical understanding and considerable practice of the main algorithms, uses, and best practices related to Machine Learning . You will follow along and code your own projects using some of the most relevant open source frameworks and libraries and you will apply what you have learned in various courses by completing a final capstone project. ",
+        "detail":"Machine Learning is one of the most in-demand skills for jobs related to modern AI applications, a field in which hiring has grown 74% annually for the last four years (LinkedIn). This Professional Certificate from IBM is intended for anyone interested in developing skills and experience to pursue a career in Machine Learning and leverage the main types of Machine Learning: Unsupervised Learning, Supervised Learning, Deep Learning, and Reinforcement Learning. It also complements your learning with special topics."
       },
-
       {
-        "_id": "11468ed61aee84de492a8b04158a22f9",
-        "others_info": {
-          "is_todays_pick": false,
-          "is_best_seller": true
-        },
-        "category_id": "05",
-        "rating": { "number": 4.5, "badge": "Excellent" },
-        "total_reviews": 5038,
-        "title": "Machine Learning With PI-learning",
-        "author": {
-          "name": "Jimmy Dane",
-          "published_date": "2022-08-24 17:27:34",
-          "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
-        },
-        "thumbnail_url": "https://www.simplilearn.com/ice9/free_resources_article_thumb/Deep-Learning-vs-Machine-Learning.jpg",
-        "image_url": "https://www.simplilearn.com/ice9/free_resources_article_thumb/Deep-Learning-vs-Machine-Learning.jpg",
-        "skill you'll gain":"Cascading Style Sheets (CSS),HTML,UI/UX design,React,JavaScript,Web Development Tools,User Interface,Front-End Web Development,HTML and CSS,Responsive Web Design",
-        "details": "Want to get started in the world of coding and build beautiful websites as a career? This course program, designed by the software engineering experts at PI-learning, will prepare you for a career as a front-end developer.Once you complete the program, you’ll get access to the PI-learning Career Programs Job Board—a job search platform that connects you with 200+ employers who have committed to sourcing talent through PI-Learning certificate programs, as well as career support resources to help you with your job search.",
-        "What To Learn":"In this program, you’ll learn: 1.How to code and build interactive web pages using HTML5, CSS and JavaScript. 2.In-demand design skills to create professional page layouts using industry-standard tools such as Bootstrap, React, and Figma.3.GitHub repositories for version control, content management system (CMS) and how to edit images using Figma.4.How to prepare for technical interviews for front-end developer roles. "
-        
-      },
-
-      {
-        "_id": "2e78e5e0310c2e9adbb6efb1a263e745",
-        "others_info": {
-          "is_todays_pick": false,
-          "is_best_seller": true
-        },
-        "category_id": "06",
-        "rating": { "number": 4.5, "badge": "Excellent" },
-        "total_reviews": 4088,
-        "title": "Cyber Security With PI-learning",
-        "author": {
-          "name": "Jimmy Dane",
-          "published_date": "2022-08-24 17:27:34",
-          "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
-        },
-        "thumbnail_url": "https://www.caplinked.com/wp-content/uploads/why-is-cybersecurity-important.jpg",
-        "image_url": "https://www.caplinked.com/wp-content/uploads/why-is-cybersecurity-important.jpg",
-        "skill you'll gain":"Cascading Style Sheets (CSS),HTML,UI/UX design,React,JavaScript,Web Development Tools,User Interface,Front-End Web Development,HTML and CSS,Responsive Web Design",
-        "details": "Want to get started in the world of coding and build beautiful websites as a career? This course program, designed by the software engineering experts at PI-learning, will prepare you for a career as a front-end developer.Once you complete the program, you’ll get access to the PI-learning Career Programs Job Board—a job search platform that connects you with 200+ employers who have committed to sourcing talent through PI-Learning certificate programs, as well as career support resources to help you with your job search.",
-        "What To Learn":"In this program, you’ll learn: 1.How to code and build interactive web pages using HTML5, CSS and JavaScript. 2.In-demand design skills to create professional page layouts using industry-standard tools such as Bootstrap, React, and Figma.3.GitHub repositories for version control, content management system (CMS) and how to edit images using Figma.4.How to prepare for technical interviews for front-end developer roles. "
-        
-      },
-
-      {
-        "_id": "a713ee936ff5574273f0f769f5c5b20ex",
-        "others_info": {
-          "is_todays_pick": false,
-          "is_best_seller": true
-        },
-        "category_id": "07",
-        "rating": { "number": 4.5, "badge": "Excellent" },
-        "total_reviews": 4088,
-        "title": "Deep Learning With PI-learning",
-        "author": {
-          "name": "Jimmy Dane",
-          "published_date": "2022-08-24 17:27:34",
-          "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
-        },
-        "thumbnail_url": "https://www.simplilearn.com/ice9/free_resources_article_thumb/The_difference_between_Artificial_Intelligence_Machine_Learning_and_Deep_Learning.jpg",
-        "image_url": "https://www.simplilearn.com/ice9/free_resources_article_thumb/The_difference_between_Artificial_Intelligence_Machine_Learning_and_Deep_Learning.jpg",
-        "skill you'll gain":"Cascading Style Sheets (CSS),HTML,UI/UX design,React,JavaScript,Web Development Tools,User Interface,Front-End Web Development,HTML and CSS,Responsive Web Design",
-        "details": "Want to get started in the world of coding and build beautiful websites as a career? This course program, designed by the software engineering experts at PI-learning, will prepare you for a career as a front-end developer.Once you complete the program, you’ll get access to the PI-learning Career Programs Job Board—a job search platform that connects you with 200+ employers who have committed to sourcing talent through PI-Learning certificate programs, as well as career support resources to help you with your job search.",
-        "What To Learn":"In this program, you’ll learn: 1.How to code and build interactive web pages using HTML5, CSS and JavaScript. 2.In-demand design skills to create professional page layouts using industry-standard tools such as Bootstrap, React, and Figma.3.GitHub repositories for version control, content management system (CMS) and how to edit images using Figma.4.How to prepare for technical interviews for front-end developer roles. "
-        
+        "_id": "006",
+        "name":"Cyber Security",
+        "tImage":"https://i.ibb.co/r2HRVsL/02.jpg",
+        "title":"Cryptography,Information Security (INFOSEC),Cybersecurity,Risk Assessment,Cyber Defense",
+        "Image":"https://i.ibb.co/W654YLS/jefferson-santos-9-So-Cny-Qmkz-I-unsplash.jpg",
+        "teacher":"Jani Jangad",
+        "time":"1h 30m",
+        "view":"4095",
+        "Price":"195",
+        "Li1":"Develop knowledge of cybersecurity analyst tools including data protection; endpoint protection; SIEM; and systems and network fundamentals.   ",
+        "Li2":"Learn about key compliance and threat intelligence topics important in today’s cybersecurity landscape. ",
+        "Li3":"Gain skills for incident responses and forensics with real-world cybersecurity case studies.",
+        "Li4":"Get hands-on experience to develop skills via industry specific and open source Security tools.",
+        "details":"A growing number of exciting, well-paying jobs in today’s security industry do not require a college degree. This Professional Certificate will give you the technical skills to become job-ready for a Cybersecurity Analyst role. Instructional content and labs will introduce you to concepts including network security, endpoint protection, incident response, threat intelligence, penetration testing, and vulnerability assessment. ",
+        "detail2":"The learning outcome is simple: We hope learners will develop a lifelong passion and appreciation for cyber security, which we are certain will help in future endeavors. Students, developers, managers, engineers, and even private citizens will benefit from this learning experience. Special customized interviews with industry partners were included to help connect the cyber security concepts to live business experiences. ",
+        "detail":"Get started in the in-demand field of cybersecurity with a Professional Certificate from PI-Learning. Learn the core principles of compliance and threat intelligence, including network security, incident response, and forensics, and gain experience with key cybersecurity tools."
       }
+
+
+      
 
 
 
